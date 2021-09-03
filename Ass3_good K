@@ -1,0 +1,9 @@
+Good K
+
+
+Choose random K(start with 1)
+run the k-mean algo 
+Find the mean square error of each centroid (form each point in the cluster to centroid), for all the cetroids.
+Increase K
+At the end choose optimal K for which change is not significant w.r.t time cost
+
